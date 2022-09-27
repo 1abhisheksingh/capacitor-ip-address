@@ -13,8 +13,8 @@
     "ios/Plugin/",
     "CapacitorIpAddress.podspec"
   ],
-  "author": "Abhishek Singh",
-  "license": "MIT",
+  "author": "",
+  "license": "MS",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/1abhisheksingh/capacitor-ip-address.git"

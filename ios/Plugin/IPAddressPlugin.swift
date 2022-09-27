@@ -10,7 +10,6 @@ public class IPAddressPlugin: CAPPlugin {
     private let implementation = IPAddress()
 
     @objc func getIPAddress(_ call: CAPPluginCall) {
-        let value = call.getString("value") ?? ""
         call.resolve([
             "value": implementation.getIPAddress()
         ])
