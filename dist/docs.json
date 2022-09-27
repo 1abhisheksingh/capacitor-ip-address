@@ -1,0 +1,25 @@
+{
+  "api": {
+    "name": "IPAddressPlugin",
+    "slug": "ipaddressplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "getIPAddress",
+        "signature": "() => Promise<{ value: string; }>",
+        "parameters": [],
+        "returns": "Promise<{ value: string; }>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "getipaddress"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}
